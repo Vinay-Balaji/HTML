@@ -1,0 +1,20 @@
+<! https://Lab-11D-Thakur-Balaji-7.vanizzle.repl.co.      this is the link to the repl file of the website-->
+<html>
+  <head>
+    <title>India - Vinay Balaji</title>
+  </head>
+  <body bgcolor="lightyellow" link="SeaGreen" alink="SeaGreen" vlink="SeaGreen">
+    <h1><font color='orange'><font face="Broadway"><p align="center" ><marquee> India </marquee><font></h1>
+    <h3 style="text-align:center"> <nav p style="color:orange;border-width:2px;background-color:orange;">
+  <a href="index.html">Home |</a>
+  <a href="Subpages/Facts.html">Facts and Information |</a>
+  <a href="Subpages/Iconic.html">Famous Landmarks |</a>
+  <a href="Subpages/Sports.html">Famous Sports |</a>
+  <a href="Subpages/food.html">Famous Foods |</a>
+  <a href="Subpages/celebrities.html">Celebrities |</a>
+  <a href="Subpages/majorcities.html">Major Cities</a>
+  </nav></h3>
+  <a href="https://www.mensxp.com/social-hits/news/39336-india-beat-switzerland-and-ireland-in-this-poll-about-the-most-beautiful-country-in-the-world.html"><img align="left"src= "Subpages/IndiaPic1.jpg" width="49.5% of window" height="68% of window"></a>
+  <a href="https://wallimpex.com/golden-temple-hd-wallpaper/8060728.html"><img align="right"src="Subpages/Golden_Temple.jpg" width="49.5% of window" height="68% of window"></a>
+  <h6><small>Courtesy to Hinakshi Bhatia for the picture on the left</small><h6>
+  <p align="left"<h6><small>Courtesy to Wallimpex.com for the picture on the right</small><h6>
